@@ -1,0 +1,8 @@
+{
+  "name": "Remix HL Pneus — Mecânica Automotiva e Pneus em Juiz de Fora",
+  "description": "Centro automotivo em São Dimas, Juiz de Fora. Pneus, alinhamento 3D, balanceamento, suspensão, freios e revisão mecânica completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
